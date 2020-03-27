@@ -1,0 +1,15 @@
+name: MECSGamemodeChange
+version: @version@
+main: mc.mec.mecsgamemodechange.MECSGamemodeChange
+api-version: 1.13
+author: Mr_El_Capitan
+commands:
+  1:
+  2:
+  3:
+  0:
+  gm:
+  creative:
+  adventure:
+  spectator:
+  survival:
